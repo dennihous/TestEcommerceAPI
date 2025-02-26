@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dennishouston/westminster/webApplicationDevelopment/EcommerceAPI/EcommerceAPI.csproj": {}
+    "/Users/dennishouston/westminster/webApplicationDevelopment/TestEcommerceAPI/EcommerceAPI.csproj": {}
   },
   "projects": {
-    "/Users/dennishouston/westminster/webApplicationDevelopment/EcommerceAPI/EcommerceAPI.csproj": {
+    "/Users/dennishouston/westminster/webApplicationDevelopment/TestEcommerceAPI/EcommerceAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dennishouston/westminster/webApplicationDevelopment/EcommerceAPI/EcommerceAPI.csproj",
+        "projectUniqueName": "/Users/dennishouston/westminster/webApplicationDevelopment/TestEcommerceAPI/EcommerceAPI.csproj",
         "projectName": "EcommerceAPI",
-        "projectPath": "/Users/dennishouston/westminster/webApplicationDevelopment/EcommerceAPI/EcommerceAPI.csproj",
+        "projectPath": "/Users/dennishouston/westminster/webApplicationDevelopment/TestEcommerceAPI/EcommerceAPI.csproj",
         "packagesPath": "/Users/dennishouston/.nuget/packages/",
-        "outputPath": "/Users/dennishouston/westminster/webApplicationDevelopment/EcommerceAPI/obj/",
+        "outputPath": "/Users/dennishouston/westminster/webApplicationDevelopment/TestEcommerceAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dennishouston/.nuget/NuGet/NuGet.Config"

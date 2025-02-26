@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bQ6sAw+7Wg0=",
+  "dgSpecHash": "lSaNnjGPtKE=",
   "success": true,
-  "projectFilePath": "/Users/dennishouston/westminster/webApplicationDevelopment/EcommerceAPI/EcommerceAPI.csproj",
+  "projectFilePath": "/Users/dennishouston/westminster/webApplicationDevelopment/TestEcommerceAPI/EcommerceAPI.csproj",
   "expectedPackageFiles": [
     "/Users/dennishouston/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/dennishouston/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
